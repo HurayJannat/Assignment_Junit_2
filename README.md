@@ -3,6 +3,9 @@
 ## Overview
 This project is a JUnit-based automation assignment that focuses on testing web forms using Selenium. The project includes generating random email addresses, interacting with web elements, and validating form submissions. It is built with Java and managed using Gradle.
 
+## Video of the report
+https://drive.google.com/file/d/1XaC7L_lks-fhqLSlbG_Q1lvLUdADHcSI/view?usp=sharing 
+
 ## Project Structure
 - **src/main/java**: Contains the main Java classes and utility functions.
 - **src/test/java**: Contains the JUnit test cases for testing various functionalities.
