@@ -9,7 +9,9 @@ https://drive.google.com/file/d/1XaC7L_lks-fhqLSlbG_Q1lvLUdADHcSI/view?usp=shari
 https://github.com/user-attachments/assets/39b111e2-d2e8-4bec-9059-983e976bf383
 
 ## Report of the Project:
-![image](https://github.com/user-attachments/assets/6e19f803-db16-4dd3-a186-3a56c659f2c8)
+
+![image](https://github.com/user-attachments/assets/90cd6122-8ecf-4619-9783-2ac699af7304)
+
 
 
 
